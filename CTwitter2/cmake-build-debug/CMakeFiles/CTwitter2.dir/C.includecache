@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Digi Max/CLionProjects/CTwitter2/cJSON.h
+stddef.h
+-
+
+C:/Users/Digi Max/CLionProjects/CTwitter2/main.c
+stdio.h
+-
+stdlib.h
+-
+winsock2.h
+-
+string.h
+-
+windows.h
+-
+slre.h
+C:/Users/Digi Max/CLionProjects/CTwitter2/slre.h
+cJSON.h
+C:/Users/Digi Max/CLionProjects/CTwitter2/cJSON.h
+slre.h
+C:/Users/Digi Max/CLionProjects/CTwitter2/slre.h
+
+C:/Users/Digi Max/CLionProjects/CTwitter2/slre.h
+

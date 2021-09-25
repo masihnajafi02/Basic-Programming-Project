@@ -1,0 +1,3 @@
+C:/Users/Digi Max/CLionProjects/servertttwit/cmake-build-debug/CMakeFiles/servertttwit.dir
+C:/Users/Digi Max/CLionProjects/servertttwit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Digi Max/CLionProjects/servertttwit/cmake-build-debug/CMakeFiles/rebuild_cache.dir

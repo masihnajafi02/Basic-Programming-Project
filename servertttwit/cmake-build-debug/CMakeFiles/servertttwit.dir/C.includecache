@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Digi Max/CLionProjects/servertttwit/cJSON.h
+stddef.h
+-
+
+C:/Users/Digi Max/CLionProjects/servertttwit/main.c
+stdio.h
+-
+winsock2.h
+-
+dirent.h
+-
+time.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+stdbool.h
+-
+sys/stat.h
+-
+cJSON.h
+C:/Users/Digi Max/CLionProjects/servertttwit/cJSON.h
+

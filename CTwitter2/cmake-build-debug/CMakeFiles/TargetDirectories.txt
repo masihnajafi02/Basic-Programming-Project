@@ -1,0 +1,3 @@
+C:/Users/Digi Max/CLionProjects/CTwitter2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Digi Max/CLionProjects/CTwitter2/cmake-build-debug/CMakeFiles/CTwitter2.dir
+C:/Users/Digi Max/CLionProjects/CTwitter2/cmake-build-debug/CMakeFiles/edit_cache.dir
